@@ -16,6 +16,8 @@ yarn dev
 ```
 ## Imagens do projeto
 ![](https://github.com/FilipeFaralhe/GoMove/blob/master/public/imagem1.png)
+![](https://github.com/FilipeFaralhe/GoMove/blob/master/public/imagem3.png)
+![](https://github.com/FilipeFaralhe/GoMove/blob/master/public/imagem4.png)
 
 
 
